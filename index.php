@@ -47,7 +47,7 @@
 			<dl class="contact-details">
 				<div class="contact-row">
 					<dt>Email</dt>
-					<dd><a href="mailto:hello@jaz26.com">hello@jaz26.com</a></dd>
+					<dd><a href="mailto:support@jaz26.com">support@jaz26.com</a></dd>
 				</div>
 				<div class="contact-row">
 					<dt>Phone</dt>
